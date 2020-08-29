@@ -1,0 +1,4 @@
+[0709/203755.936:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0709/203755.937:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0709/203755.937:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0709/203755.937:ERROR:exception_snapshot_win.cc(98)] thread ID 7812 not found in process
